@@ -1,2 +1,0 @@
-# RetoEncriptador
-Reto Alura Latam
